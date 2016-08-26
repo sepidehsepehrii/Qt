@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/newpics">
+        <file>1702.png</file>
+        <file>about.png</file>
+        <file>Actions-edit-cut-icon.png</file>
+        <file>copy-icon.png</file>
+        <file>cut-icon.png</file>
+        <file>file_search.png</file>
+        <file>Files-New-File-icon.png</file>
+        <file>open-file-icon.png</file>
+        <file>paste-icon.png</file>
+        <file>redo-5.png</file>
+        <file>Save-as-icon.png</file>
+        <file>Save-icon.png</file>
+        <file>Oxygen-Icons.org-Oxygen-Actions-dialog-close.ico</file>
+    </qresource>
+</RCC>
