@@ -1,4 +1,4 @@
-nclude "mainwindow.h"
+#include "mainwindow.h"
 #include <QApplication>
 #include <QString>
 #include <QMessageBox>
